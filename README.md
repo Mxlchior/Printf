@@ -5,15 +5,15 @@
   This project is a simplified re-implementation of the standard C function printf, named ft_printf.
   Its purpose is to handle variadic arguments and produce formatted output to the standard output.
   
-  Handled Specifiers:
- 	%c	Single character.
-	%s	String of characters
-	%p	Pointer address 
-	%d, %i	Signed decimal integer.
-	%u	Unsigned decimal integer.
-	%x	Hexadecimal lowercase.
-	%X	Hexadecimal uppercase.
-	%%	Literal percent sign.
+ 	 Handled Specifiers:
+ 		%c	Single character.
+		%s	String of characters
+		%p	Pointer address 
+		%d, %i	Signed decimal integer.
+		%u	Unsigned decimal integer.
+		%x	Hexadecimal lowercase.
+		%X	Hexadecimal uppercase.
+		%%	Literal percent sign.
 
 🚀 Instructions
 
